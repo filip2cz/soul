@@ -1,7 +1,8 @@
-Komárek Filip - 94,47 %
+# Vlastníci mojí duše
 
-Konečný Šimon - 3 % za pokerové žetony v hodnotě 825 jednotek
-
-Sedmík Štěpán - 2,03 % duše
-
-Honys Mikuláš Jan - 0,5 % duše
+| Jméno             | Množství v %  | Poznámka                      |
+|-------------------|---------------|-------------------------------|
+| Komárek Filip     | 94,47         |                               |
+| Konečný Šimon     | 3             | pokerové žetony v hodnotě 825 |
+| Sedmík Štěpán     | 2,03          |                               |
+| Honys Mikuláš Jan | 0,5           |                               |
